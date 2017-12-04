@@ -1,4 +1,8 @@
 # API
+
+
+### Note: *This assumes that api_key is provided as part of JSON file my_api_key.json*
+
 # Trend 1-:
 The Maximum temperature depends on the latitude of the city as we see a symmetry in the plots for temperature as we go through the latitude.
 
