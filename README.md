@@ -1,4 +1,14 @@
 # API
+#Trend 1-:
+The Maximum temperature depends on the latitude of the city as we see a symmetry in the plots for temperature as we go through the latitude.
+
+#Trend 2-:
+Cloudiness does not depend on the latitude. The plot indicates diversity in cloudiness as we go through the latitudes.
+
+#Trend 3-:
+As the latitude increases wind speed also get increased. We can see bubbles more crowded as the latitude increases.
+
+
 
 ```python
 #Dependencies
